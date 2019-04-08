@@ -14,7 +14,7 @@ class VIP(object):
     def __init__(self):
         self.api = 'http://y.mt2t.com/lines?url='
         self.post_url = "http://y.mt2t.com/lines/getdata"
-        self.url = 'http://v.youku.com/v_show/id_XNDA0MDg2NzU0OA==.html?spm=a2h03.8164468.2069780.5'
+        self.url = 'https://v.youku.com/v_show/id_XNDEwNjc1MTk5Ng==.html?spm=a2ha1.12528442.m_4424_c_11054_1.d_4&s=efbfbd285528130f11ef&scm=20140719.rcmd.4424.show_efbfbd285528130f11ef'
         # self.url = 'https://v.youku.com/v_show/id_XNDA4OTQ0ODQ4NA==.html?spm=a2ha1.12528442.m_4424_c_11054_7.d_2&s=ae9f929cbce811e0bf93&scm=20140719.rcmd.4424.show_ae9f929cbce811e0bf93'
         self.get_videourl = 'http://y2.mt2t.com:91/ifr/api'
 # //dd.tt-hk.cn/temp2/c06271d8970a116e64e18a510bbc873b-OWUyMXE5dG9iTjJqdVNWcmdZakZCR0p4elQ1Ukh2ZGFnMzZPY1J1cjZLaFNacGJWWWo3UW1acnEwajhWMEcrcGN0dnFpZU14VWhoMStlVEUvQW9FNVlUQTVnaUU2VkprQ2pURDVzQlhiOHc=.m3u8
