@@ -1,7 +1,8 @@
+#!/usr/bin/python
 # -*- coding: utf-8 -*-
-# @Time    : 2019/2/16 21:28
-# @Author  : for 
-# @File    : 02_UDP_client_test.py
+# @Time    : 2019/4/26 21:24
+# @Author  : Xuegod Teacher For
+# @File    : 03_udp_client_test.py
 # @Software: PyCharm
 import socket
 

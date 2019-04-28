@@ -1,10 +1,11 @@
+#!/usr/bin/python
 # -*- coding: utf-8 -*-
-# @Time    : 2019/2/16 21:48
-# @Author  : for 
-# @File    : 03_TCP_server_tall_test.py
+# @Time    : 2019/4/26 22:00
+# @Author  : Xuegod Teacher For
+# @File    : 05_TCP_server_test.py
 # @Software: PyCharm
 import socket
-print('正在连接中....')
+print('正在链接……')
 def dealclient(sock,addr):
     info = sock.recv(1024).decode()
     while info != 'exit':
@@ -18,8 +19,6 @@ def dealclient(sock,addr):
 if __name__ == '__main__':
     s = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
     s.bind(('127.0.0.1',9001))
-    s.listen(1)
+    s.listen(5)
     sock,addr = s.accept()
     dealclient(sock,addr)
-
-
