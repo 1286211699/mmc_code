@@ -13,15 +13,10 @@ class SchoolSpider(scrapy.Spider):
         for item in links:
             name = item.css('::text').extract_first()
             link = item.css('::attr(href)').extract_first()
-
             if name in ['河南','山东']:
-
                 yield Request(link,callback=self.parse_he_shan,meta={'name':name})
-
             else:
                 yield Request(link,callback=self.parse_school,meta={'name':name})
-
-
     def parse_he_shan(self,response):
         name = response.meta["name"]
         data = response.css(".table-x tr")
@@ -44,7 +39,6 @@ class SchoolSpider(scrapy.Spider):
                             "subject": "",
                             "private": ""
                         }
-
     # 通用学校提取
     def parse_school(self,response):
         name = response.meta["name"]

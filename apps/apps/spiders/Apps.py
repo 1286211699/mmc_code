@@ -10,7 +10,7 @@ class AppsSpider(scrapy.Spider):
     name = 'Apps'
     allowed_domains = ['www.coolapk.com']
     start_urls = ['http://www.coolapk.com/apk?p=1']
-    #习俗settings 目的是为了修改默认的setting中的文件中的配置
+    #settings 目的是为了修改默认的setting中的文件中的配置
     custom_settings ={
         "DEFAULT_REQUEST_HEADERS" :{
             'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',

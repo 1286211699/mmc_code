@@ -19,7 +19,7 @@ class ClouderworkSpider(scrapy.Spider):
         }
     }
     def start_requests(self):
-        for page in range(1,353):
+        for page in range(1,416):
             yield scrapy.Request(self.start_urls[0].format(times=time.time(),pagesize=20,pagenum=page))
     def parse(self, response):
         json_data = json.loads(response.text)

@@ -1,75 +1,65 @@
+#!/usr/bin/python
 # -*- coding: utf-8 -*-
-# @Time : 2019/1/17 21:09 
-# @Author : for 
-# @File : 02_class_test.py 
+# @Time    : 2019/4/11 21:06
+# @Author  : Xuegod Teacher For
+# @File    : 02_class_test.py
 # @Software: PyCharm
-
-# class Cat():
+# class Cat:
 #     print('我是喵咪')
-# #实例化一个tom对象
+# #实例化一个对象tom
 # tom = Cat()
+# #实例化一个对象lucky
+# lucky = Cat()
 
 # class Cat():
-#     '我是喵咪'
-#     def eat(self):
-#         '猫'
+#     def eat(a):
 #         print('猫在吃……')
-#     def drink(self):
-#         print('猫仔喝水……')
+#     def drink(a):
+#         print('猫在喝……')
 #     def print_info(self):
-#         print('%s 的年龄是%s'%(tom.name,tom.age))
-# #创建一个tom实例化对象
+#         print('%s的年龄是%s'%(self.name,self.age))
+# #实例化一个对象tom
 # tom = Cat()
-# #调用实例方法
-# tom.eat()
-# tom.drink()
-# #通过雷鸣调用实例方法
-# Cat.eat(tom)
 # tom.name = '汤姆'
-# tom.age = 18
+# tom.age = 19
 # tom.print_info()
-# print('^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^')
+# print('-------------------')
 # lucky = Cat()
-# lucky.eat()
-# lucky.drink()
 # lucky.name = '幸运'
 # lucky.age = 18
 # lucky.print_info()
 
+
+
+
+# tom.eat()
+# tom.drink()
+#类名加实例方法名加传递 实力对象参数
+# Cat.eat(tom)
+
 # class Bird:
-#     def hello(self):
-#         print(self)
+#     def hello(a):
+#         print(a)
 # b = Bird()
 # print(b)
-# b.hello()
+# # b.hello()
+#
 # Bird.hello(b)
-#
-#
-# c = Bird()
-# print(c)
-# # c.hello()
-#
-#
-#
-# class Cat():
-#     def __init__(self):
-#         print('__init__被调用了')
+
+
+# class Cat(object):
+#     age = 18#类属性
 #     def eat(self):
 #         print('猫在吃……')
 #     def drink(self):
-#         print('猫仔喝水……')
-#     def print_info(self):
-#         print('%s 的年龄是%s'%(self.name,self.age))
-# #实例化对对象
+#         print('猫在喝……')
+#     def print_info(self):#实例方法
+#         print(self.age)
+#
 # tom = Cat()
-# tom.name = '汤姆'
-# tom.age = 18
+# print(tom.age)
+# print(Cat.age)
 # tom.print_info()
-#经典类
-# class Cat:
-# class Cat():
-# #新式类
-# class Cat(object):
 
 
 
@@ -80,17 +70,16 @@
 
 
 
-class Cat():
-    def __init__(self):
-        self.name = '汤姆'
-        self.age = 18
-    def eat(self):
-        print('猫在吃……')
-    def drink(self):
-        print('猫仔喝水……')
-    def print_info(self):
-        print('%s 的年龄是%s'%(self.name,self.age))
-#实例化对对象
-tom = Cat()
-tom.print_info()
+
+
+
+
+
+
+
+
+
+
+
+
 

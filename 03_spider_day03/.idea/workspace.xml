@@ -2,31 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0395dacf-2a64-47ef-902c-c7b717bb9de8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../02_spider_day02/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03_实训课第三天/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_实训课/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_实训课/01_isinstance_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_实训课/01_ziP_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_实训课/02_iter_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_实训课/03_bnum_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_实训课/imp/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_实训课/imp/imp_test01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_实训课/test01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_实训课/test02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_spider_day02/03_51CTO_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/../02_spider_day02/03_51CTO_spider.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_spider_day02/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../02_spider_day02/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_知乎图片爬取_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_知乎图片爬取_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Juejin/Juejin/spiders/juejin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Juejin/Juejin/spiders/juejin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mySpider/gaokao.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../mySpider/gaokao.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mySpider/mySpider/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/../mySpider/mySpider/middlewares.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mySpider/mySpider/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../mySpider/mySpider/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mySpider/mySpider/spiders/gaokao.py" beforeDir="false" afterPath="$PROJECT_DIR$/../mySpider/mySpider/spiders/gaokao.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test_01/.idea/public_test_01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../public_test_01/.idea/public_test_01.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test_01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../public_test_01/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test_01/02_reauesgts_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../public_test_01/02_reauesgts_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test_01/render.html" beforeDir="false" afterPath="$PROJECT_DIR$/../public_test_01/render.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test_01/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../public_test_01/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_优酷等vip视频爬取_test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_优酷等vip视频爬取_test/01_优酷_vip_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_优酷等vip视频爬取_test/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0219_3_22_public_test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0219_3_22_public_test/01_bibao_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0219_3_22_public_test/02_dec_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0219_3_22_public_test/03_taobao_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1_4_Python运算与流程控制循环/01_iter_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1_4_Python运算与流程控制循环/02_yield_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1_4_Python运算与流程控制循环/03_zip_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2019_3_26_public_test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2019_3_26_public_test/01_360_image_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2019_3_26_public_test/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2019_3_27_public_test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2019_3_27_public_test/01_pil_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2019_3_27_public_test/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2019_3_27_public_test/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2019_3_27_public_test/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apps/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clouder_work/01_data_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clouder_work/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_test02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_test02/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_test01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_test01/01_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tencent01/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1_4_Python运算与流程控制循环/08_copy_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../1_4_Python运算与流程控制循环/08_copy_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1_4_Python运算与流程控制循环/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../1_4_Python运算与流程控制循环/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2019_3_9_public_test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2019_3_9_public_test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2019_3_9_public_test/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2019_3_9_public_test/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Juejin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Juejin/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aiss-spider" beforeDir="false" afterPath="$PROJECT_DIR$/../aiss-spider" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apps/apps/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../apps/apps/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apps/apps/spiders/Apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/../apps/apps/spiders/Apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clouder_work/clouder_work/spiders/clouderwork.py" beforeDir="false" afterPath="$PROJECT_DIR$/../clouder_work/clouder_work/spiders/clouderwork.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../university/university/spiders/School.py" beforeDir="false" afterPath="$PROJECT_DIR$/../university/university/spiders/School.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/01_tuling_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/test.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,11 +56,11 @@
     <session id="163689642">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.29" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -80,8 +94,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/01_知乎图片爬取_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2345">
-              <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+            <state relative-caret-position="999">
+              <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="32" />
               <folding>
                 <element signature="e#125#136#0" expanded="true" />
               </folding>
@@ -249,7 +263,7 @@
     <frame x="238" y="39" width="1013" height="668" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22035676" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22455405" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -322,8 +336,8 @@
     <entry file="file://$PROJECT_DIR$/imgs/v2-7db37fa9883ae7d622fc22092a778232_hd.jpg" />
     <entry file="file://$PROJECT_DIR$/01_知乎图片爬取_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2345">
-          <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        <state relative-caret-position="999">
+          <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="32" />
           <folding>
             <element signature="e#125#136#0" expanded="true" />
           </folding>
