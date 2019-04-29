@@ -1,5 +1,6 @@
+#!/usr/bin/python
 # -*- coding: utf-8 -*-
-# @Time    : 2019/2/18 22:19
-# @Author  : for 
-# @File    : 2.py.py
+# @Time    : 2019/4/28 22:26
+# @Author  : Xuegod Teacher For
+# @File    : 2.py
 # @Software: PyCharm

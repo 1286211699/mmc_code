@@ -1,7 +1,8 @@
+#!/usr/bin/python
 # -*- coding: utf-8 -*-
-# @Time    : 2019/2/18 22:00
-# @Author  : for 
-# @File    : 07_pro_tall_test.py
+# @Time    : 2019/4/28 22:05
+# @Author  : Xuegod Teacher For
+# @File    : 07_queue_peocess_test.py
 # @Software: PyCharm
 import multiprocessing,time
 
@@ -16,15 +17,17 @@ def write_data(queue):
 def read_data(queue):
     while True:
         if queue.qsize() == 0:
-            print('队列空了')
+            print('队列为空')
             break
         value = queue.get()
-        print('得到的数据',value)
+        print('得到的是:',value)
 if __name__ == '__main__':
     queue = multiprocessing.Queue(5)
+
     write_process = multiprocessing.Process(target=write_data,args=(queue,))
     read_process = multiprocessing.Process(target=read_data,args=(queue,))
+
     write_process.start()
     write_process.join()
-    read_process.start()
 
+    read_process.start()
