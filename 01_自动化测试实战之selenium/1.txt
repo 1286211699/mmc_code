@@ -1,0 +1,38 @@
+Selenium(浏览器自动化测试框架)_百度百科
+Selenium - Web Browser Automation
+python爬虫从入门到放弃(八)之 Selenium库的使用 - pytho..._博客园
+以后再有人问你selenium是什么,你就把这篇文章给他 - T..._CSDN博客
+selenium自动化测试 - 简书
+Selenium Documentation — Selenium Documentation
+如何突破网站对selenium的屏蔽 - 半吊子python全栈 - CSDN博客
+selenium - 简书
+web自动化测试神器——selenium家族介绍
+Selenium(浏览器自动化测试框架)_百度百科
+Selenium - Web Browser Automation
+python爬虫从入门到放弃(八)之 Selenium库的使用 - pytho..._博客园
+以后再有人问你selenium是什么,你就把这篇文章给他 - T..._CSDN博客
+selenium自动化测试 - 简书
+Selenium Documentation — Selenium Documentation
+如何突破网站对selenium的屏蔽 - 半吊子python全栈 - CSDN博客
+selenium - 简书
+web自动化测试神器——selenium家族介绍
+功能自动化测试工具——Selenium篇
+selenium中文网 | selenium安装、selenium使用、selenium中文、...
+official selenium python bindings - selenium · PyPI
+Selenium · 社区 · TesterHome
+【selenium】什么意思_英语selenium的翻译_音标_读音_..._有道词典
+selenium吧-百度贴吧--selenium吧,讨论ui自动化相关话题--为...
+Selenium | 静觅
+Selenium是什么意思_Selenium在线翻译_英语_读音_用法_例句..._海词
+<x> selenium 镜像 - selenium Mirror
+Selenium with Python — Selenium Python Bindings 2 ...
+Selenium Conference Home
+selenium的基本使用和常用语法 - weixin_41931602的博客 - CSDN博客
+Selenium IDE · Open source record and playback test ...
+Selenium WebDriver — Selenium Documentation
+Selenium 及其实现原理 - p312011150的博客 - CSDN博客
+selenium用法详解 - CSDN博客
+Python 爬虫基础Selenium库的使用(二十二01) - 凯耐的..._CSDN博客
+selenium - 随笔分类 - 虫师 - 博客园
+a selenium server - Downloads
+Selenium WebDriver
