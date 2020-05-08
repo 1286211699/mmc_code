@@ -2,47 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8df4da25-79fb-45f7-93df-0484fe9270b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../01_优酷等vip视频爬取_test/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01_优酷等vip视频爬取_test/01_优酷_vip_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01_优酷等vip视频爬取_test/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0219_3_22_public_test/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0219_3_22_public_test/01_bibao_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0219_3_22_public_test/02_dec_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0219_3_22_public_test/03_taobao_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1_4_Python运算与流程控制循环/01_iter_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1_4_Python运算与流程控制循环/02_yield_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1_4_Python运算与流程控制循环/03_zip_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2019_3_26_public_test/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2019_3_26_public_test/01_360_image_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2019_3_26_public_test/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2019_3_27_public_test/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2019_3_27_public_test/01_pil_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2019_3_27_public_test/11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2019_3_27_public_test/13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2019_3_27_public_test/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../apps/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../clouder_work/01_data_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../clouder_work/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../django_test02/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../django_test02/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python_test01/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python_test01/01_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tencent01/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1_4_Python运算与流程控制循环/05_while_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1_4_Python运算与流程控制循环/06_pass_con_break_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1_4_Python运算与流程控制循环/07_list_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1_4_Python运算与流程控制循环/08_copy_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/apps/course/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03_spider_day03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../03_spider_day03/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1_4_Python运算与流程控制循环/08_copy_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../1_4_Python运算与流程控制循环/08_copy_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1_12_异常处理/xuegod/xuegod_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1_12_异常处理/xuegod/xuegod_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1_15_socker编程/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1_15_socker编程/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1_16_python_进程.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../1_16_python_进程.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1_16_python_进程/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1_16_python_进程/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../1_4_Python运算与流程控制循环/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../1_4_Python运算与流程控制循环/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_3_9_public_test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2019_3_9_public_test/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_3_9_public_test/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2019_3_9_public_test/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Juejin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Juejin/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MxOnline/apps/organization/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../MxOnline/apps/organization/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MxOnline/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/../MxOnline/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MxOnline/templates/course-comment.html" beforeDir="false" afterPath="$PROJECT_DIR$/../MxOnline/templates/course-comment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MxOnline/templates/course-detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/../MxOnline/templates/course-detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MxOnline/templates/course-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../MxOnline/templates/course-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MxOnline/templates/course-video.html" beforeDir="false" afterPath="$PROJECT_DIR$/../MxOnline/templates/course-video.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MxOnline/templates/org-detail-course.html" beforeDir="false" afterPath="$PROJECT_DIR$/../MxOnline/templates/org-detail-course.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MxOnline/templates/org-detail-desc.html" beforeDir="false" afterPath="$PROJECT_DIR$/../MxOnline/templates/org-detail-desc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MxOnline/templates/org-detail-homepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/../MxOnline/templates/org-detail-homepage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MxOnline/templates/org-detail-teachers.html" beforeDir="false" afterPath="$PROJECT_DIR$/../MxOnline/templates/org-detail-teachers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MxOnline/templates/org-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../MxOnline/templates/org-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MxOnline/templates/org_base.html" beforeDir="false" afterPath="$PROJECT_DIR$/../MxOnline/templates/org_base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../aiss-spider" beforeDir="false" afterPath="$PROJECT_DIR$/../aiss-spider" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../apps/apps/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../apps/apps/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../apps/apps/spiders/Apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/../apps/apps/spiders/Apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clouder_work/clouder_work/spiders/clouderwork.py" beforeDir="false" afterPath="$PROJECT_DIR$/../clouder_work/clouder_work/spiders/clouderwork.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../university/university/spiders/School.py" beforeDir="false" afterPath="$PROJECT_DIR$/../university/university/spiders/School.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/01_tuling_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/test.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,12 +46,12 @@
     <session id="-83049171">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.1" value="2" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -101,7 +85,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/02_27270_spider_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1134">
+            <state relative-caret-position="-1297">
               <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
               <folding>
                 <element signature="e#128#137#0" expanded="true" />
@@ -113,7 +97,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/03_fengniao_spider_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
+            <state relative-caret-position="-177">
               <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
@@ -125,7 +109,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/04_sun_spider_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
+            <state relative-caret-position="-15">
               <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
               <folding>
                 <element signature="e#126#141#0" expanded="true" />
@@ -134,14 +118,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/05_chongtu_spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
-              <folding>
-                <element signature="e#125#136#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="135">
+              <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -155,10 +136,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/01_妹纸网图片爬取.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
+            <state relative-caret-position="-2484">
               <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
               <folding>
                 <element signature="e#117#126#0" expanded="true" />
@@ -237,7 +218,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -249,10 +229,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../02_spider_day02" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -420,9 +402,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="210" y="37" width="936" height="645" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18378995" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18835616" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -480,53 +461,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://D:/xuegod/Lib/site-packages/retrying.py" />
-    <entry file="file://$PROJECT_DIR$/02_27270_spider_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1134">
-          <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
-          <folding>
-            <element signature="e#128#137#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_fengniao_spider_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_sun_spider_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-          <folding>
-            <element signature="e#126#141#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05_chongtu_spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
-          <folding>
-            <element signature="e#125#136#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -541,13 +475,57 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/01_妹纸网图片爬取.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
+        <state relative-caret-position="-2484">
           <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
           <folding>
             <element signature="e#117#126#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_27270_spider_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1297">
+          <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
+          <folding>
+            <element signature="e#128#137#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_fengniao_spider_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-177">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_sun_spider_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="e#126#141#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_chongtu_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
         </state>
       </provider>
     </entry>

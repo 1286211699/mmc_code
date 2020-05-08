@@ -113,7 +113,7 @@ def merge_face(image_url_1,image_url_2,image_url,number):
     file.close()
 import os
 def test(filename):
-    image1 = "GXT.png"
+    image1 = "GXT.jpg"
     image2 = filename
     image = filename
     try:
@@ -135,7 +135,7 @@ if __name__ == '__main__':
     vc=video2txt_jpg(INPUT)
     FPS=vc.get(cv2.CAP_PROP_FPS)  # 获取帧率
     vc.release()
-    # main()
+    main()
     jpg2video(INPUT.split('.')[0], FPS)
     print(INPUT, INPUT.split('.')[0] + '.mp3')
     video2mp3(INPUT)
